@@ -1,0 +1,1 @@
+Scala 完全面向对象，所以scala取消了java中非面向对象的元素，比如static关键字，void关键字
